@@ -1,0 +1,6 @@
+@MYFIN.API_HostAddress = http://localhost:5265
+
+GET {{MYFIN.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

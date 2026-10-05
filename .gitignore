@@ -1,0 +1,23 @@
+﻿# .gitignore
+
+# MYFIN.API
+MYFIN.API/bin/
+MYFIN.API/obj/
+MYFIN.API/tools/PasswordHashGenerator/bin/
+MYFIN.API/tools/PasswordHashGenerator/obj/
+
+# myfinapp
+myfinapp/.dart_tool/
+myfinapp/build/
+myfinapp/.idea/
+myfinapp/.vscode/
+myfinapp/android/.gradle/
+myfinapp/android/local.properties
+myfinapp/ios/Pods/
+myfinapp/ios/.symlinks/
+myfinapp/ios/build/
+myfinapp/linux/build/
+myfinapp/macos/build/
+myfinapp/web/build/
+myfinapp/windows/build/
+myfinapp/pubspec.lock
